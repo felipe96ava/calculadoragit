@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Exemplo fazendo um merge1 com conflito
+Criando Pull Requests
 """
 
 import datetime
