@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Criando
-"""
+simulando um conflito
 
+# Importações
 import datetime
 import random
 
+# Função de boas-vindas
 def boas_vindas():
     """Exibe mensagem de boas-vindas personalizada"""
     print("=" * 50)
