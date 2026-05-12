@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Meu Primeiro Programa em Python
-Autor: felipe 
-Data: 12/05/2026
-Descrição: Programa básico para aprender GitHub
-"""
+
 
 # Importações
 import datetime
